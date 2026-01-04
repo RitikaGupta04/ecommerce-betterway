@@ -200,7 +200,7 @@ function App() {
 
       <footer className="footer">
         <div className="footer-content">
-          <p>© 2026 Elite Store. Built with React & ❤️</p>
+          <p>© 2026 Elite Store. Built with React & 🤍</p>
           <div className="footer-links">
             <a href="#privacy">Privacy Policy</a>
             <a href="#terms">Terms of Service</a>

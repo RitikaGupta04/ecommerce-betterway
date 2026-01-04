@@ -26,7 +26,7 @@
 
 .product-card:hover {
   transform: translateY(-12px);
-  box-shadow: 0 25px 50px -12px rgba(99, 102, 241, 0.25);
+  box-shadow: 0 25px 50px -12px rgba(232, 196, 196, 0.25);
   border-color: var(--primary-color);
 }
 
@@ -79,7 +79,7 @@
   position: absolute;
   top: 1rem;
   right: 1rem;
-  background: rgba(20, 184, 166, 0.95);
+  background: rgba(232, 196, 196, 0.95);
   backdrop-filter: blur(10px);
   color: white;
   padding: 0.5rem 1rem;
@@ -87,14 +87,14 @@
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: capitalize;
-  box-shadow: 0 4px 12px rgba(20, 184, 166, 0.3);
+  box-shadow: 0 4px 12px rgba(232, 196, 196, 0.3);
   transition: all 0.3s ease;
   z-index: 2;
 }
 
 .product-card:hover .product-category-badge {
   transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(20, 184, 166, 0.5);
+  box-shadow: 0 8px 20px rgba(232, 196, 196, 0.5);
 }
 
 .product-info {
